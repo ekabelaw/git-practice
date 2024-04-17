@@ -1,0 +1,3 @@
+Hello Git and GitHub.
+
+This is first excercise using git command.
